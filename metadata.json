@@ -1,0 +1,6 @@
+{
+  "name": "CatatKajian",
+  "description": "Aplikasi pencatat kajian online dengan transkripsi suara real-time, ringkasan otomatis, dan pelengkap dalil serta referensi online.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
